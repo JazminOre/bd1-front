@@ -1,0 +1,10 @@
+.nav-link {
+  color: #ffffff;
+  font-size: 15px; 
+  font-weight: 400;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: #ffc935;
+  font-weight: lighter;
+}
